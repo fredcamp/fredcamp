@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fredcamp
-- 👀 I’m interested in mobile and web development & design
+- 👀 I’m interested in web development and graphics design
 - 🌱 I’m currently learning js frameworks
 - 📫 You can reach me on facebook.com/Freedee/
 
