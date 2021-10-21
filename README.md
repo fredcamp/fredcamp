@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @fredcamp
-- 👀 I’m interested in web development and graphics designing
-- 🌱 I’m currently learning front-end frameworks
+- 👋 Hi, I’m Fred Campo
+- 🤔 I’m interested in web development and graphics designing
+- 📚 I’m currently learning front-end frameworks
