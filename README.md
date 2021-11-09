@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Fred Campo
-- 🤔 I’m interested in web development and graphics designing
-- 📚 I’m currently learning front-end frameworks
+![Error404 Image](error404.jpg)
